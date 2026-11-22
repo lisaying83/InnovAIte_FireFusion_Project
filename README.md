@@ -4,7 +4,7 @@
  
 ---
  
-## Overview
+## Summary
  
 FireFusion is a capstone research project that combines AI-powered bushfire spread forecasting with misinformation detection to support emergency decision-making in Victoria, Australia. The platform prototypes an integrated dashboard that visualises both physical fire risks and emerging information risks during bushfire events.
  
